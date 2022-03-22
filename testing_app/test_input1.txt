@@ -1,0 +1,40 @@
+single_answ
+What's 2+2?
+How are ya
+---
+3
+4***
+22
+===
+many_answ
+Defference between 100 and 5
+---
+95***
+5
+5100
+100-58***
+===
+rel_answ
+What's the representacion of different colors in the RBG system?
+---
+A)(0,100,0)
+B)(100,0,0)
+C)(0,0,100)
+---
+1)Blue
+2)Red
+3)Green
+123***
+===
+txt_answ
+Who wrote "War and Peice"?
+---
+Leo Tolstoy
+===
+test img
+The highest building located in Dubai?
+---
+Dubai.png***
+Hong_Kong.png
+San_Francisco.png
+===
